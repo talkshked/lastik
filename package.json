@@ -1,0 +1,22 @@
+{
+  "name": "lastik",
+  "version": "1.0.0",
+  "description": "lastik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talkshked/lastik.git"
+  },
+  "dependencies": {
+    "last-tea-chance  ": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talkshked/lastik/issues"
+  },
+  "homepage": "https://github.com/talkshked/lastik#readme"
+}
